@@ -180,6 +180,11 @@ A Complete Smart Home Solution
 	- 硬件制作(1)——画电路图
 	- 硬件制作(2)——画PCB板
 	- 硬件制作(3)——元器件与焊接
+29. bluetooth
+	- [LightBlue]——支持两种模式--中心（模拟手机）和周边（模拟蓝牙设备(https://www.msly.cn/boards/topic/14428/lightblue)
+	- [几款常用的ble调试app（nRF Connect、BLE调试助手、LightBlue）](https://www.msly.cn/boards/topic/14428/lightblue#18972)
+	
+		
 - 补充篇章
 	- Linux下的常用命令
 	- Linux下的文本编辑
@@ -215,11 +220,7 @@ A Complete Smart Home Solution
 	- HASSIO.IO与常规运行环境区别(by Zack-Xu)
 	- x86下ubuntu虚机及HomeAssistant安装（by 猛将兄）
 	
-- bluetooth
-	- [LightBlue]——支持两种模式--中心（模拟手机）和周边（模拟蓝牙设备(https://www.msly.cn/boards/topic/14428/lightblue)
-	- [几款常用的ble调试app（nRF Connect、BLE调试助手、LightBlue）](https://www.msly.cn/boards/topic/14428/lightblue#18972)
-	
-	
+
 	
 
 ## Useful links
