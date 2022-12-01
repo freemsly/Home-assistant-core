@@ -55,8 +55,10 @@ A Complete Smart Home Solution
 	- 红外遥控——博联RM系列产品
 	- 红外遥控——小米万能遥控器
 	- 文件夹监测——FolderWatche
-8. 设备接入篇(2)   aqara 
+8. 网关设备接入篇(2)   aqara 
 	- [aqara hub M1s](https://www.msly.cn/boards/topic/5278/aqara-gatewayhub-g2h-m1s-cn-p3-cn-m2-cn-h1-cn-e1-cn-g3-cn-g2h-pro-integration-for-home-assistant#18735)
+	- [niceboygithub's AqaraGateway](https://github.com/niceboygithub/AqaraGateway)
+	
 	
 	
 8. 各种摄像头接入篇
