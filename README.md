@@ -214,6 +214,13 @@ A Complete Smart Home Solution
 	- 树莓派安装HASS.IO(by Zack-Xu)
 	- HASSIO.IO与常规运行环境区别(by Zack-Xu)
 	- x86下ubuntu虚机及HomeAssistant安装（by 猛将兄）
+	
+- bluetooth
+	- LightBlue——支持两种模式--中心（模拟手机）和周边（模拟蓝牙设备
+	
+	
+	
+	
 
 ## Useful links
 1. 真实<br>
