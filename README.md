@@ -217,7 +217,7 @@ A Complete Smart Home Solution
 	
 - bluetooth
 	- [LightBlue]——支持两种模式--中心（模拟手机）和周边（模拟蓝牙设备(https://www.msly.cn/boards/topic/14428/lightblue)
-	
+	- [几款常用的ble调试app（nRF Connect、BLE调试助手、LightBlue）](https://www.msly.cn/boards/topic/14428/lightblue#18972)
 	
 	
 	
