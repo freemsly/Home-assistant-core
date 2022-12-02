@@ -34,7 +34,7 @@ A Complete Smart Home Solution
 4. 公网访问篇
 	- 申请Amazon免费云主机
 	- ssh隧道构建
-	- frp隧道构建
+	- [Install frp on rpi step by step](https://www.msly.cn/boards/topic/30/how-to-install-frp-on-home-assistant-operating-systemhassos-on-raspberry-pi-step-by-step)
 	- 免费为HA配上域名与HTTPS网站证书
 	- nginx代理
 5. 设备位置追踪篇
